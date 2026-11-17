@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#e3001b"/>
+  <polygon points="32,5 39,23 59,24 43,36 49,56 32,45 15,56 21,36 5,24 25,23" fill="#0b0a0c" stroke="#fbf7f0" stroke-width="3" stroke-linejoin="round"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Impact, 'Arial Black', sans-serif" font-size="19" fill="#fbf7f0" transform="skewX(-8) translate(5 0)">MF</text>
+</svg>
